@@ -1,2 +1,2 @@
 # Rufferapp
-# for android Build.Version>5.0
+# for android Build.Version<5.0
